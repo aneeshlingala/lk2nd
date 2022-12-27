@@ -16,6 +16,7 @@ DTBS += \
 	$(LOCAL_DIR)/msm8953-meizu-m1721.dtb \
 	$(LOCAL_DIR)/msm8953-motorola-potter.dtb \
 	$(LOCAL_DIR)/msm8953-tenor-holland.dtb
+	$(LOCAL_DIR)/msm8953-qrd-sku3-sakura.dtb
 endif
 ifeq ($(PROJECT), msm8952-secondary)
 DTBS += \
